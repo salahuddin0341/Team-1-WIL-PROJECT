@@ -1,0 +1,405 @@
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\appsettings.Development.json
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\appsettings.json
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\UsersApp.staticwebassets.runtime.json
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\UsersApp.staticwebassets.endpoints.json
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\UsersApp.exe
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\UsersApp.deps.json
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\UsersApp.runtimeconfig.json
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\UsersApp.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\UsersApp.pdb
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\Azure.Core.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\Azure.Identity.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\Humanizer.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\System.CodeDom.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\System.Memory.Data.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\UsersApp.csproj.AssemblyReference.cache
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\UsersApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\UsersApp.AssemblyInfoInputs.cache
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\UsersApp.AssemblyInfo.cs
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\UsersApp.csproj.CoreCompileInputs.cache
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\UsersApp.MvcApplicationPartsAssemblyInfo.cache
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\UsersApp.RazorAssemblyInfo.cache
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\UsersApp.RazorAssemblyInfo.cs
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\scopedcss\bundle\UsersApp.styles.css
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\scopedcss\projectbundle\UsersApp.bundle.scp.css
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\07eg2h2kx7-fosamezn9b.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\fzzrkyee59-61n19gt1b8.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\ruv0yhnwt2-fr7q2aak1r.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\xcjd0abz3e-agp80tu62r.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\rjiu9oho3h-st1cbwfwo5.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\27shch1yzj-unj9p35syc.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\c8dware3fx-5vj65cig9w.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\lp8nss9mgg-q2ku51ktnl.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\1h4n9adlid-2q4vfeazbq.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\1r1acj063k-n1oizzvkh6.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\pz9tdvwt1s-o371a8zbv2.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\7h1fi3l9bg-7na4sro3qu.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\5gho3lsrmm-jeal3x0ldm.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\2agexcqjqx-f8imaxxbri.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\ilxwxuzcnz-okkk44j0xs.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\vvbtqa2i4w-0wve5yxp74.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\fd7xw0puta-cwzlr5n8x4.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\751cmqrmxl-npxfuf8dg6.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\hihq2w540t-wmug9u23qg.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\rblzo9ija4-tey0rigmnh.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\4m9bsmk4zd-j75batdsum.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\8qpj19idb4-16095smhkz.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\6oblb10jcc-vy0bq9ydhf.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\vob82ipbtb-b4skse8du6.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\unmebvuk70-ab1c3rmv7g.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\19qdcdojfr-u3xrusw2ol.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\3u7cwwz9ef-56d2bn4wt9.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\udibw3p4ru-mpyigms19s.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\zw5r084vyx-73kdqttayv.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\3b4y33p6ec-bpk8xqwxhs.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\dka28an6j5-8inm30yfxf.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\4x9wv025pj-ve6x09088i.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\8xzew4u84q-4gxs3k148c.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\riljdru2n3-9b9oa1qrmt.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\kzt340rewq-fctod5rc9n.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\s0pew0er60-l2av4jpuoj.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\epcqj00z44-kbynt5jhd9.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\vvkxdq8wlw-25iw1kog22.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\4rnx3ega6d-c2nslu3uf3.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\kilhv8uxhk-m39kt2b5c9.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\rmup8b6an3-2lgwfvgpvi.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\kaphb82ukt-um2aeqy4ik.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\4n7v1sedt7-wsezl0heh6.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\rf2xr6bpz2-o4kw7cc6tf.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\07vvkgdi7r-6ukhryfubh.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\15dfchsy2g-zwph15dxgs.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\xufio7bu2k-u33ctipx7g.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\sbn5m8q481-47otxtyo56.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\httueh882j-4v8eqarkd7.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\aurd39bqhh-l3n5xuwxn8.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\zcz6ugxo29-gcjdx5jb8l.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\b9i8fivf3a-35gxhxa0gh.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\10phd8lks2-pzqfkb6aqo.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\cppm8vu8yi-b7iojwaux1.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\pgl710bj75-xzw0cte36n.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\qmfa6arkll-fwhahm2icz.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\kb2zwxgr5v-dd6z7egasc.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\455r0i7pc9-5pze98is44.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\4oitvw801i-jfsiqqwiad.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\9lezg21bo5-quszie9gvv.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\55ou1gwd8t-quszie9gvv.gz
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\staticwebassets.build.json
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\staticwebassets.development.json
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\staticwebassets\msbuild.UsersApp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\staticwebassets\msbuild.UsersApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\staticwebassets\msbuild.build.UsersApp.props
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.UsersApp.props
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.UsersApp.props
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\staticwebassets.pack.json
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\UsersApp.csproj.Up2Date
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\UsersApp.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\refint\UsersApp.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\UsersApp.pdb
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\UsersApp.genruntimeconfig.cache
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\ref\UsersApp.dll
+E:\DOWNLOAD\AspNetCoreMvcCustomLoginAndRegistration-main\AspNetCoreMvcCustomLoginAndRegistration-main\obj\Debug\net9.0\compressed\pfvj73j6po-ok0btn8fyi.gz
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\appsettings.Development.json
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\appsettings.json
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\UsersApp.staticwebassets.endpoints.json
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\UsersApp.staticwebassets.runtime.json
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\UsersApp.exe
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\UsersApp.deps.json
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\UsersApp.runtimeconfig.json
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\UsersApp.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\UsersApp.pdb
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\Azure.Core.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\Azure.Identity.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\Humanizer.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\System.CodeDom.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\System.Drawing.Common.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\System.Memory.Data.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\System.Windows.Extensions.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\webdevelopment\Farooq Work\Awareness App\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\UsersApp.csproj.AssemblyReference.cache
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\UsersApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\UsersApp.AssemblyInfoInputs.cache
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\UsersApp.AssemblyInfo.cs
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\UsersApp.csproj.CoreCompileInputs.cache
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\UsersApp.MvcApplicationPartsAssemblyInfo.cache
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\UsersApp.RazorAssemblyInfo.cache
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\UsersApp.RazorAssemblyInfo.cs
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\scopedcss\bundle\UsersApp.styles.css
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\scopedcss\projectbundle\UsersApp.bundle.scp.css
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\pfvj73j6po-ok0btn8fyi.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\07eg2h2kx7-fosamezn9b.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\fzzrkyee59-61n19gt1b8.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\ruv0yhnwt2-fr7q2aak1r.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\xcjd0abz3e-agp80tu62r.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\rjiu9oho3h-st1cbwfwo5.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\27shch1yzj-unj9p35syc.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\c8dware3fx-5vj65cig9w.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\lp8nss9mgg-q2ku51ktnl.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\1h4n9adlid-2q4vfeazbq.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\1r1acj063k-n1oizzvkh6.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\pz9tdvwt1s-o371a8zbv2.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\7h1fi3l9bg-7na4sro3qu.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\5gho3lsrmm-jeal3x0ldm.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\2agexcqjqx-f8imaxxbri.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\ilxwxuzcnz-okkk44j0xs.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\vvbtqa2i4w-0wve5yxp74.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\fd7xw0puta-cwzlr5n8x4.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\751cmqrmxl-npxfuf8dg6.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\hihq2w540t-wmug9u23qg.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\rblzo9ija4-tey0rigmnh.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\4m9bsmk4zd-j75batdsum.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\8qpj19idb4-16095smhkz.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\6oblb10jcc-vy0bq9ydhf.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\vob82ipbtb-b4skse8du6.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\unmebvuk70-ab1c3rmv7g.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\19qdcdojfr-u3xrusw2ol.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\3u7cwwz9ef-56d2bn4wt9.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\udibw3p4ru-mpyigms19s.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\zw5r084vyx-73kdqttayv.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\3b4y33p6ec-bpk8xqwxhs.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\dka28an6j5-8inm30yfxf.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\4x9wv025pj-ve6x09088i.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\8xzew4u84q-4gxs3k148c.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\riljdru2n3-9b9oa1qrmt.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\kzt340rewq-fctod5rc9n.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\s0pew0er60-l2av4jpuoj.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\epcqj00z44-kbynt5jhd9.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\vvkxdq8wlw-25iw1kog22.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\4rnx3ega6d-c2nslu3uf3.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\kilhv8uxhk-m39kt2b5c9.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\rmup8b6an3-2lgwfvgpvi.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\kaphb82ukt-um2aeqy4ik.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\4n7v1sedt7-wsezl0heh6.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\rf2xr6bpz2-o4kw7cc6tf.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\07vvkgdi7r-6ukhryfubh.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\15dfchsy2g-zwph15dxgs.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\xufio7bu2k-u33ctipx7g.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\sbn5m8q481-47otxtyo56.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\httueh882j-4v8eqarkd7.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\aurd39bqhh-l3n5xuwxn8.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\zcz6ugxo29-gcjdx5jb8l.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\b9i8fivf3a-35gxhxa0gh.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\10phd8lks2-pzqfkb6aqo.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\cppm8vu8yi-b7iojwaux1.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\pgl710bj75-xzw0cte36n.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\qmfa6arkll-fwhahm2icz.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\kb2zwxgr5v-dd6z7egasc.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\455r0i7pc9-5pze98is44.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\4oitvw801i-jfsiqqwiad.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\staticwebassets.build.json
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\staticwebassets.development.json
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\staticwebassets\msbuild.UsersApp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\staticwebassets\msbuild.UsersApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\staticwebassets\msbuild.build.UsersApp.props
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.UsersApp.props
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.UsersApp.props
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\staticwebassets.pack.json
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\UsersApp.csproj.Up2Date
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\UsersApp.dll
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\refint\UsersApp.dll
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\UsersApp.pdb
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\UsersApp.genruntimeconfig.cache
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\ref\UsersApp.dll
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\9lezg21bo5-zfmlo3gacq.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\compressed\55ou1gwd8t-zfmlo3gacq.gz
+E:\webdevelopment\Farooq Work\Awareness App\obj\Debug\net9.0\UsersApp.sourcelink.json

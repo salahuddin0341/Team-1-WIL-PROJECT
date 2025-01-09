@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewBag.Title</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/account.css" asp-append-version="true" />
+    
+    <!-- Custom Styles for Alert Positioning -->
+    <style>
+        .alert-container {
+            position: fixed;
+            top: 10px;
+            left: 50%;
+            transform: translateX(-50%);
+            z-index: 1050;
+            width: 100%;
+            max-width: 500px;
+        }
+
+        .alert {
+            display: none;
+            background-color: #ebcc34 !important;
+            
+          
+        }
+
+       
+        }
+    </style>
+</head>
+<body>
+
+    <div>
+        @RenderBody()
+    </div>
+
+    <!-- Alert Container -->
+    <div id="alertContainer" class="alert-container">
+        @if (TempData["SuccessMessage"] != null)
+        {
+            <div class="alert alert-success alert-dismissible fade show" role="alert">
+                @TempData["SuccessMessage"]
+                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            </div>
+        }
+        @if (TempData["ErrorMessage"] != null)
+        {
+            <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                @TempData["ErrorMessage"]
+                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+            </div>
+        }
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+    <script>
+    $(document).ready(function () {
+        // Fade in the alert
+        $(".alert").fadeIn(500);
+
+        // Automatically fade out after 3 seconds
+        setTimeout(function () {
+            $(".alert").fadeOut(500, function () {
+                $(this).remove(); // Optional: remove the element after fading out
+            });
+        }, 2000);
+
+        // Close alert manually
+        $(".btn-close").on("click", function () {
+            $(this).parent(".alert").fadeOut(500, function () {
+                $(this).remove();
+            });
+        });
+    });
+</script>
+
+
+</body>
+</html>

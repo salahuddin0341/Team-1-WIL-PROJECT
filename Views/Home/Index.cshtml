@@ -1,0 +1,62 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<style>
+    .alert {
+        position: fixed;
+        top: 10px;
+        left: 50%;
+        transform: translateX(-50%);
+        z-index: 1050;
+        width: 100%;
+        max-width: 500px;
+         background-color: #ebcc34 !important;
+        opacity: 0; /* Start hidden */
+        transition: opacity 0.5s ease-in-out;
+    }
+
+    .alert.fade-in {
+        opacity: 1; /* Fully visible */
+    }
+
+    .alert.fade-out {
+        opacity: 0; /* Fade-out to hidden */
+    }
+</style>
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to Awareness App</h1>
+</div>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div id="successAlert" class="alert alert-success alert-dismissible" role="alert">
+        @TempData["SuccessMessage"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+@section Scripts {
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const successAlert = document.getElementById("successAlert");
+            if (successAlert) {
+                // Fade in the alert
+                setTimeout(() => {
+                    successAlert.classList.add("fade-in");
+                }, 20); // Short delay to trigger the animation
+
+                // Start fade-out after 5 seconds
+                setTimeout(() => {
+                    successAlert.classList.remove("fade-in");
+                    successAlert.classList.add("fade-out");
+                    // Remove the element after the transition ends
+                    successAlert.addEventListener("transitionend", () => {
+                        successAlert.remove();
+                    });
+                }, 2500); // 5 seconds of display before fading out
+            }
+        });
+    </script>
+}
